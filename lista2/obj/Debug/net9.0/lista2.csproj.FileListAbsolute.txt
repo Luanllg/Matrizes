@@ -1,0 +1,14 @@
+C:\Users\luan\Downloads\list2\lista2\obj\Debug\net9.0\lista2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan\Downloads\list2\lista2\obj\Debug\net9.0\lista2.AssemblyInfoInputs.cache
+C:\Users\luan\Downloads\list2\lista2\obj\Debug\net9.0\lista2.AssemblyInfo.cs
+C:\Users\luan\Downloads\list2\lista2\obj\Debug\net9.0\lista2.csproj.CoreCompileInputs.cache
+C:\Users\luan\Downloads\list2\lista2\bin\Debug\net9.0\lista2.exe
+C:\Users\luan\Downloads\list2\lista2\bin\Debug\net9.0\lista2.deps.json
+C:\Users\luan\Downloads\list2\lista2\bin\Debug\net9.0\lista2.runtimeconfig.json
+C:\Users\luan\Downloads\list2\lista2\bin\Debug\net9.0\lista2.dll
+C:\Users\luan\Downloads\list2\lista2\bin\Debug\net9.0\lista2.pdb
+C:\Users\luan\Downloads\list2\lista2\obj\Debug\net9.0\lista2.dll
+C:\Users\luan\Downloads\list2\lista2\obj\Debug\net9.0\refint\lista2.dll
+C:\Users\luan\Downloads\list2\lista2\obj\Debug\net9.0\lista2.pdb
+C:\Users\luan\Downloads\list2\lista2\obj\Debug\net9.0\lista2.genruntimeconfig.cache
+C:\Users\luan\Downloads\list2\lista2\obj\Debug\net9.0\ref\lista2.dll
