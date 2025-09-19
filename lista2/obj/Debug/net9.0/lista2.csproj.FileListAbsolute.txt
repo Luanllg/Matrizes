@@ -12,3 +12,4 @@ C:\Users\luan\Downloads\list2\lista2\obj\Debug\net9.0\refint\lista2.dll
 C:\Users\luan\Downloads\list2\lista2\obj\Debug\net9.0\lista2.pdb
 C:\Users\luan\Downloads\list2\lista2\obj\Debug\net9.0\lista2.genruntimeconfig.cache
 C:\Users\luan\Downloads\list2\lista2\obj\Debug\net9.0\ref\lista2.dll
+C:\Users\luan\Downloads\list2\lista2\obj\Debug\net9.0\lista2.sourcelink.json
