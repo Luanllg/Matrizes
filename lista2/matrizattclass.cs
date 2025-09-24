@@ -1,6 +1,6 @@
 using System;
 using bibliotecamat;
-class matrizcidade
+class matrizattclass
 
 {
     static int menorindeicezona(int[,] matrizindice)
