@@ -9,7 +9,7 @@ namespace bibliotecamat
             int linhas = matriz.GetLength(0);
             int colunas = matriz.GetLength(1);
 
-            for (int i = 0; i < linhas; i++)
+            for (int i = 0; i < linhas; i++) 
             {
                 for (int j = 0; j < colunas; j++)
                 {
