@@ -145,6 +145,6 @@ class matrizcidade
 
  //(a) Calcular o total de pessoas em toda a cidade.(feito)
 //(b) Calcular o total de pessoas por linha (por bairro).(feito)
-//(c) Calcular o total de pessoas por coluna (zonas da cidade - sul, suldeste, norte, etc).
-//(d) Determinar o bairro mais populoso.
-//(e) Determinar a zona menos populosa.
+//(c) Calcular o total de pessoas por coluna (zonas da cidade - sul, suldeste, norte, etc).(feito)
+//(d) Determinar o bairro mais populoso.(feito)
+//(e) Determinar a zona menos populosa.(feito)
